@@ -17,33 +17,13 @@ body {
 /*a:hover {
     color: white;
 }*/
-#header {
-    text-align: center;
-    /*background: url("http://tinyurl.com/qj52qq4");*/
-    background: url("/bdt_logo.jpg");
-    background-size: cover;
-    height: 500px;
-    width: 100%;
+
+#logo {
+    width: 40%;
+    height: 8%;
+    margin-top: 25px;
 }
-h1 {
-    position: relative;
-    top: 25px;
-    display: inline;
-    background: rgba(15, 77, 146, .7);
-    font-size: 100px;
-    text-align: center;
-    text-shadow:
-        -2px -2px 1px #0F4D92,
-        2px -2px 1px #0F4D92,
-        -2px 2px 1px #0F4D92,
-        2px 2px 1px #0F4D92;
-    color: white;
-    font-family: Yale;
-    border-style: solid;
-    border-width: 7px;
-    padding: 5px 20px 5px;
-    border-radius: 10px;
-}
+
 #pitch {
     width: 55%;
     background-color: rgba(14, 76, 146, .7);
@@ -53,21 +33,6 @@ h1 {
     padding: 15px;
     border-radius: 10px;
     margin: 40px auto 25px auto;
-}
-
-#links {
-    text-align: center;
-}
-
-.rider {
-    width: 55%;
-    background-color: rgba(14, 76, 146, .7);
-    color: white;
-    font: helvetica;
-    border-style: solid;
-    padding: 15px;
-    border-radius: 10px;
-    margin: 80px auto 50px auto;
 }
 
 h2 {
